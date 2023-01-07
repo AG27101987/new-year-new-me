@@ -210,4 +210,8 @@ input {
 .contact a {
     text-decoration: none;
 }
+.btn{border-radius: 5px;
+    color: #0c0c72;
+    
+}
 
