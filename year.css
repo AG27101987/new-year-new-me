@@ -1,3 +1,42 @@
-.banner{
+/* common shared style */
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* banner style */
+
+.banner {
     background-image: url(images/banner/banner1.png);
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.banner-text {
+    text-align: right;
+    padding-top: 300px;
+    padding-right: 240px;
+    padding-left: 800px;
+}
+
+.btn-primary {
+    padding: 20px 30px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    background-color: chocolate;
+    border-radius: 10px;
+    border: none;
+}
+
+/* style for failures section */
+
+.failures{
+    display: flex;    
+}
+.failures-text{
+    padding-top: 300px;
+    padding-right: 250px;
+    padding-left: 200px;
 }
