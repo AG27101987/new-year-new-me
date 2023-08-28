@@ -16,7 +16,7 @@ body {
 .banner-text {
     text-align: right;
     padding-top: 300px;
-    padding-right: 240px;
+    padding-right: 200px;
     padding-left: 800px;
 }
 
@@ -37,6 +37,6 @@ body {
 }
 .failures-text{
     padding-top: 300px;
-    padding-right: 250px;
+    padding-right: 200px;
     padding-left: 200px;
 }
