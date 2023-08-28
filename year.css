@@ -32,29 +32,52 @@ body {
 
 /* style for failures section */
 
-.failures{
-    display: flex;    
+.failures {
+    display: flex;
 }
-.failures-text{
+
+.failures-text {
     padding-top: 200px;
     padding-right: 150px;
     padding-left: 200px;
 }
+
 /* Style for plan section */
 
-.plan-title{
+.plan-title {
     text-align: center;
     margin-top: 100px;
 }
 
 /* Style for Skill section */
 
-.plan{
+.plan {
     margin-bottom: 50px;
 }
 
-.skill{
+.skill {
     display: flex;
     text-align: center;
     gap: 200px;
 }
+
+/* Mindset Banner */
+
+.mindset-banner {
+    background-image: url(images/watch.png);
+    background-repeat: no-repeat;
+    height: 100vh;
+    padding-left: 20px;
+}
+
+.mindset-title {
+    color: #FFF;
+    font-size: 40px;
+    font-weight: 700;
+    padding-top: 30px;
+    padding-right: 700px;
+    
+
+}
+
+.
